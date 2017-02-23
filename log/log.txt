@@ -3,3 +3,8 @@ w00-170209-10-DS-Diskusi dalam kelas
 w00-170212-13-LR-About: HKI and Introduction to Scripting
 w01-170214-10-DS-Diskusi dalam kelas
 w01-170214-14-PS-Mengerjakan tutorial
+w01-170218-16-LR-Baca Slide dan Bahan Ajar
+w01-170218-17-LR-Baca Bahan dari internet
+w02-170221-10-DS-Diskusi dalam kelas
+w02-170221-14-PS-Mengerjakan tutorial
+w02-170223-10-DS-Diskusi dalam kelas
